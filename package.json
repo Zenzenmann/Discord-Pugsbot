@@ -1,0 +1,12 @@
+{
+  "name": "discord-voice-mover-bot",
+  "version": "1.0.0",
+  "description": "Move members between Discord voice channels with slash commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
